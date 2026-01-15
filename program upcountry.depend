@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1721096055 source:c:\users\dell\desktop\program upcountry\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<cstring>
+
